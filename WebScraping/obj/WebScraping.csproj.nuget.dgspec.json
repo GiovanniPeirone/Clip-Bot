@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ProA La Falda\\Desktop\\WebScraping\\WebScraping.csproj": {}
+    "c:\\Users\\ProA La Falda\\Documents\\GitHub\\Clip-Bot\\WebScraping\\WebScraping.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ProA La Falda\\Desktop\\WebScraping\\WebScraping.csproj": {
+    "c:\\Users\\ProA La Falda\\Documents\\GitHub\\Clip-Bot\\WebScraping\\WebScraping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ProA La Falda\\Desktop\\WebScraping\\WebScraping.csproj",
+        "projectUniqueName": "c:\\Users\\ProA La Falda\\Documents\\GitHub\\Clip-Bot\\WebScraping\\WebScraping.csproj",
         "projectName": "WebScraping",
-        "projectPath": "C:\\Users\\ProA La Falda\\Desktop\\WebScraping\\WebScraping.csproj",
+        "projectPath": "c:\\Users\\ProA La Falda\\Documents\\GitHub\\Clip-Bot\\WebScraping\\WebScraping.csproj",
         "packagesPath": "C:\\Users\\ProA La Falda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ProA La Falda\\Desktop\\WebScraping\\obj\\",
+        "outputPath": "c:\\Users\\ProA La Falda\\Documents\\GitHub\\Clip-Bot\\WebScraping\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ProA La Falda\\AppData\\Roaming\\NuGet\\NuGet.Config",
