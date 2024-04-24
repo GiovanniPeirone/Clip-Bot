@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ProA La Falda\\Documents\\GitHub\\Clip-Bot\\WebScraping\\WebScraping.csproj",
+      "projectUniqueName": "c:\\Users\\ProA La Falda\\Documents\\GitHub\\Clip-Bot\\WebScraping.csproj",
       "projectName": "WebScraping",
-      "projectPath": "c:\\Users\\ProA La Falda\\Documents\\GitHub\\Clip-Bot\\WebScraping\\WebScraping.csproj",
+      "projectPath": "c:\\Users\\ProA La Falda\\Documents\\GitHub\\Clip-Bot\\WebScraping.csproj",
       "packagesPath": "C:\\Users\\ProA La Falda\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ProA La Falda\\Documents\\GitHub\\Clip-Bot\\WebScraping\\obj\\",
+      "outputPath": "c:\\Users\\ProA La Falda\\Documents\\GitHub\\Clip-Bot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ProA La Falda\\AppData\\Roaming\\NuGet\\NuGet.Config",
