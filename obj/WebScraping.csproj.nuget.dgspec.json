@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ProA La Falda\\Documents\\GitHub\\Clip-Bot\\WebScraping.csproj": {}
+    "D:\\GitHub\\Clip-Bot\\WebScraping.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ProA La Falda\\Documents\\GitHub\\Clip-Bot\\WebScraping.csproj": {
+    "D:\\GitHub\\Clip-Bot\\WebScraping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ProA La Falda\\Documents\\GitHub\\Clip-Bot\\WebScraping.csproj",
+        "projectUniqueName": "D:\\GitHub\\Clip-Bot\\WebScraping.csproj",
         "projectName": "WebScraping",
-        "projectPath": "C:\\Users\\ProA La Falda\\Documents\\GitHub\\Clip-Bot\\WebScraping.csproj",
-        "packagesPath": "C:\\Users\\ProA La Falda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ProA La Falda\\Documents\\GitHub\\Clip-Bot\\obj\\",
+        "projectPath": "D:\\GitHub\\Clip-Bot\\WebScraping.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\Clip-Bot\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ProA La Falda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +48,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "PuppeteerSharp": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -60,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
